@@ -31,3 +31,7 @@ Index
   * Model Training
   * Model Evaluation
 - Summary
+
+# Assignment Summary
+In this assignment I will not only look at what are the attributes for customers to terminate services, but I will also try to make an analysis for what can be done about it.
+
