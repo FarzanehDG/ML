@@ -17,9 +17,9 @@
   * Proportion of churn by gender and contract
   * Observations by citizen type
   * Visualize Churn rates by Citizen Type, Tech Support & Contract Status
-  * finding correlations and plot the heat map
+  * Finding correlations and plot the heat map
   * Segmenting based on data type and pre-processing
-  * creating a dataset to combine pre-processed variables
+  * Creating a dataset to combine pre-processed variables
 - Data Preprocessing
   * Feature importance
   * Import machine learning libraries
