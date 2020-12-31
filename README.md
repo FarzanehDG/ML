@@ -1,6 +1,7 @@
 #  Churn prediction assignment
 
-- Index
+Index
+- Assignment Summary
 - Import Libraries
 - Understanding & Preparing Data
   * Data summary
