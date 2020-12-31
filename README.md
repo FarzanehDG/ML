@@ -1,6 +1,6 @@
 # ML
 
-# Churn prediction assignment
-Index
-Import Libraries
-Understanding & Preparing Data
+- Churn prediction assignment
+- Index
+- Import Libraries
+- Understanding & Preparing Data
